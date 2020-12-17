@@ -14,5 +14,3 @@ while(valid < 2){
   media = soma / 2;
 }
 console.log("media = " + media.toFixed(2))
-
-
