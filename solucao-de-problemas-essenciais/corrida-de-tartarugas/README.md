@@ -4,7 +4,9 @@ A corrida de tartarugas é um esporte que cresceu muito nos últimos anos, fazen
 
 
 Nível 1: Se a velocidade é menor que 10 cm/h .
+
 Nível 2: Se a velocidade é maior ou igual a 10 cm/h e menor que 20 cm/h .
+
 Nível 3: Se a velocidade é maior ou igual a 20 cm/h .
 
 Sua tarefa é identificar qual o nível de velocidade da tartaruga mais veloz de um grupo.
