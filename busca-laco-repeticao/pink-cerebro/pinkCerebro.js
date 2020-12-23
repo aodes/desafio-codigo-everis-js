@@ -13,9 +13,6 @@ for (let index = 0; index < multiplos.length; index++) {
         if(numero % multiplo == 0 ){
             contador = contador + 1;
         }
-        
     }
-
     console.log(contador + " Multiplo(s) de " + multiplo)
-
 }
